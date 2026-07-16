@@ -6,27 +6,27 @@ export default function Portfolio() {
       <section className="text-center space-y-4">
 
         {/* EDIT: Your full name */}
-        <h1 className="text-5xl font-bold text-slate-900">Teo Kuo Hong</h1>
+        <h1 className="text-5xl font-bold text-slate-900">Cheah Choon Keat</h1>
 
         {/* EDIT: Your job title or tagline */}
-        <p className="text-xl text-indigo-600 font-medium">Aspiring Data Scientist</p>
+        <p className="text-xl text-indigo-600 font-medium">Data Analytics Student & Aspiring Data Professional</p>
 
         {/* Contact links */}
         <div className="flex justify-center gap-6 text-sm text-slate-500">
 
           {/* EDIT: Your email address */}
-          <a href="mailto:kuohong@netizenexperience.com" className="hover:text-indigo-600 transition-colors">
-            kuohong@netizenexperience.com
+          <a href="mailto:cheahchoonkeat295@gmail.com" className="hover:text-indigo-600 transition-colors">
+            cheahchoonkeat@gmail.com
           </a>
 
           {/* EDIT: Your GitHub URL */}
-          <a href="https://github.com/netizen-experience" target="_blank" rel="noopener noreferrer"
+          <a href="https://github.com/cck769" target="_blank" rel="noopener noreferrer"
              className="hover:text-indigo-600 transition-colors">
             GitHub
           </a>
 
           {/* EDIT: Your LinkedIn URL */}
-          <a href="https://my.linkedin.com/company/netizen-experience" target="_blank" rel="noopener noreferrer"
+          <a href="www.linkedin.com/in/cheah-choon-keat-45188338a" target="_blank" rel="noopener noreferrer"
              className="hover:text-indigo-600 transition-colors">
             LinkedIn
           </a>
@@ -34,7 +34,7 @@ export default function Portfolio() {
 
         {/* Download Resume button — replace /resume.pdf in /public with your own PDF */}
         <div className="pt-2">
-          <a href="/resume.pdf" download
+          <a href="/Black Minimalist Civil Engineer Resume.pdf" download
              className="inline-block bg-indigo-600 text-white px-6 py-2.5 rounded-lg text-sm font-medium hover:bg-indigo-700 transition-colors">
             Download Resume
           </a>
