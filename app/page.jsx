@@ -6,7 +6,7 @@ export default function Portfolio() {
       <section className="text-center space-y-4">
 
         {/* EDIT: Your full name */}
-        <h1 className="text-5xl font-bold text-slate-900">Teo Kuo Hong</h1>
+        <h1 className="text-5xl font-bold text-slate-900">Cheah Choon Keat</h1>
 
         {/* EDIT: Your job title or tagline */}
         <p className="text-xl text-indigo-600 font-medium">Aspiring Data Scientist</p>
