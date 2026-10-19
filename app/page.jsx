@@ -9,26 +9,26 @@ export default function Portfolio() {
         <h1 className="text-5xl font-bold text-slate-900">Cheah Choon Keat</h1>
 
         {/* EDIT: Your job title or tagline */}
-        <p className="text-xl text-indigo-600 font-medium">Aspiring Data Scientist</p>
+        <p className="text-xl text-indigo-600 font-medium">Data Analyst Intern | Data Science Intern | IT Systems Analyst Intern</p>
 
         {/* Contact links */}
         <div className="flex justify-center gap-6 text-sm text-slate-500">
 
           {/* EDIT: Your email address */}
           <a href="mailto:kuohong@netizenexperience.com" className="hover:text-indigo-600 transition-colors">
-            kuohong@netizenexperience.com
+            cheahchoonkeat295@gmail.com
           </a>
 
           {/* EDIT: Your GitHub URL */}
           <a href="https://github.com/netizen-experience" target="_blank" rel="noopener noreferrer"
              className="hover:text-indigo-600 transition-colors">
-            GitHub
+            https://github.com/cck769
           </a>
 
           {/* EDIT: Your LinkedIn URL */}
           <a href="https://my.linkedin.com/company/netizen-experience" target="_blank" rel="noopener noreferrer"
              className="hover:text-indigo-600 transition-colors">
-            LinkedIn
+            http://www.linkedin.com/in/cheah-choon-keat-45188338a
           </a>
         </div>
 
@@ -47,9 +47,9 @@ export default function Portfolio() {
 
         {/* EDIT: Your 2–3 sentence bio */}
         <p className="text-slate-600 leading-relaxed">
-          Final year student at Sunway University passionate about data analytics and machine learning.
-          I enjoy turning messy datasets into clear insights and building tools that help people make
-          better decisions. Currently seeking internship and graduate opportunities in data science.
+          A motivated and detail-oriented Information Systems (Data Analytics) undergraduate with a 
+          UEC qualification, seeking an internship opportunity for the Jan – Apr 2027 period to 
+          contribute to data-driven decision-making and efficient business operations.
         </p>
       </section>
 
@@ -61,11 +61,11 @@ export default function Portfolio() {
         <div className="flex flex-wrap gap-2">
           <span className="bg-slate-100 text-slate-700 px-3 py-1 rounded-full text-sm font-medium">Python</span>
           <span className="bg-slate-100 text-slate-700 px-3 py-1 rounded-full text-sm font-medium">SQL</span>
-          <span className="bg-slate-100 text-slate-700 px-3 py-1 rounded-full text-sm font-medium">React</span>
-          <span className="bg-slate-100 text-slate-700 px-3 py-1 rounded-full text-sm font-medium">Git</span>
-          <span className="bg-slate-100 text-slate-700 px-3 py-1 rounded-full text-sm font-medium">Tableau</span>
-          <span className="bg-slate-100 text-slate-700 px-3 py-1 rounded-full text-sm font-medium">Pandas</span>
-          <span className="bg-slate-100 text-slate-700 px-3 py-1 rounded-full text-sm font-medium">Scikit-learn</span>
+          <span className="bg-slate-100 text-slate-700 px-3 py-1 rounded-full text-sm font-medium">SAS</span>
+          <span className="bg-slate-100 text-slate-700 px-3 py-1 rounded-full text-sm font-medium">R</span>
+          <span className="bg-slate-100 text-slate-700 px-3 py-1 rounded-full text-sm font-medium">Power BI</span>
+          <span className="bg-slate-100 text-slate-700 px-3 py-1 rounded-full text-sm font-medium">Advanced Spreadsheets</span>
+          <span className="bg-slate-100 text-slate-700 px-3 py-1 rounded-full text-sm font-medium">Data Flow Mapping</span>
         </div>
       </section>
 
@@ -79,7 +79,7 @@ export default function Portfolio() {
           <div className="border border-slate-200 rounded-xl p-6 space-y-3">
 
             {/* EDIT: Project name */}
-            <h3 className="text-lg font-semibold text-slate-900">Sales Dashboard</h3>
+            <h3 className="text-lg font-semibold text-slate-900">Predicting Viral Artificial-Intelligence Tweets</h3>
 
             {/* EDIT: One sentence describing the project and what you learned */}
             <p className="text-slate-600 text-sm leading-relaxed">
