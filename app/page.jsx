@@ -15,18 +15,18 @@ export default function Portfolio() {
         <div className="flex justify-center gap-6 text-sm text-slate-500">
 
           {/* EDIT: Your email address */}
-          <a href="mailto:kuohong@netizenexperience.com" className="hover:text-indigo-600 transition-colors">
+          <a href="cheahchoonkeat295@gmail.com" className="hover:text-indigo-600 transition-colors">
             cheahchoonkeat295@gmail.com
           </a>
 
           {/* EDIT: Your GitHub URL */}
-          <a href="https://github.com/netizen-experience" target="_blank" rel="noopener noreferrer"
+          <a href="https://github.com/cck769" target="_blank" rel="noopener noreferrer"
              className="hover:text-indigo-600 transition-colors">
             https://github.com/cck769
           </a>
 
           {/* EDIT: Your LinkedIn URL */}
-          <a href="https://my.linkedin.com/company/netizen-experience" target="_blank" rel="noopener noreferrer"
+          <a href="http://www.linkedin.com/in/cheah-choon-keat-45188338a" target="_blank" rel="noopener noreferrer"
              className="hover:text-indigo-600 transition-colors">
             http://www.linkedin.com/in/cheah-choon-keat-45188338a
           </a>
@@ -157,19 +157,19 @@ export default function Portfolio() {
         <div className="flex flex-col sm:flex-row gap-3">
 
           {/* EDIT: Your email address */}
-          <a href="mailto:kuohong@netizenexperience.com"
+          <a href="cheahchoonkeat295@gmail.com"
              className="inline-block border border-slate-300 text-slate-700 px-5 py-2.5 rounded-lg text-sm font-medium hover:border-indigo-400 hover:text-indigo-600 transition-colors text-center">
             cheahchoonkeat295@gmail.com
           </a>
 
           {/* EDIT: Your GitHub URL */}
-          <a href="https://github.com/netizen-experience" target="_blank" rel="noopener noreferrer"
+          <a href="https://github.com/cck769" target="_blank" rel="noopener noreferrer"
              className="inline-block border border-slate-300 text-slate-700 px-5 py-2.5 rounded-lg text-sm font-medium hover:border-indigo-400 hover:text-indigo-600 transition-colors text-center">
             https://github.com/cck769
           </a>
 
           {/* EDIT: Your LinkedIn URL */}
-          <a href="https://my.linkedin.com/company/netizen-experience" target="_blank" rel="noopener noreferrer"
+          <a href="http://www.linkedin.com/in/cheah-choon-keat-45188338a" target="_blank" rel="noopener noreferrer"
              className="inline-block border border-slate-300 text-slate-700 px-5 py-2.5 rounded-lg text-sm font-medium hover:border-indigo-400 hover:text-indigo-600 transition-colors text-center">
             http://www.linkedin.com/in/cheah-choon-keat-45188338a
           </a>
