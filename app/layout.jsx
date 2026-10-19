@@ -2,7 +2,7 @@ import './globals.css'
 
 export const metadata = {
   /* EDIT: Your name and a short description for search engines */
-  title: 'Teo Kuo Hong — Portfolio',
+  title: 'Cheah Choon Keat — Portfolio',
   description: 'Final year student at Sunway University passionate about data analytics and machine learning.',
 }
 
