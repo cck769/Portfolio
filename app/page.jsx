@@ -83,19 +83,18 @@ export default function Portfolio() {
 
             {/* EDIT: One sentence describing the project and what you learned */}
             <p className="text-slate-600 text-sm leading-relaxed">
-              Interactive data visualisation dashboard built with Python and Tableau.
-              Analysed 12 months of retail sales data to surface weekly trends and top-performing products.
+              Developed a machine learning pipeline to predict tweet virality using a dataset of over 820,000 AI-related tweets, analysing engagement patterns in an imbalanced dataset.
+              Applied text analysis (TF-IDF) and sentiment analysis (VADER) to analyse tweet content, used Random Forest and stacking ensemble models to predict tweet virality, and applied SMOTE-Tomek to address imbalanced data. 
+              Developed a Power BI dashboard to visualize engagement patterns and findings.
             </p>
 
             {/* EDIT: Technologies used in this project */}
             <div className="flex flex-wrap gap-2">
               <span className="bg-indigo-50 text-indigo-700 px-2.5 py-0.5 rounded text-xs font-medium">Python</span>
-              <span className="bg-indigo-50 text-indigo-700 px-2.5 py-0.5 rounded text-xs font-medium">Tableau</span>
-              <span className="bg-indigo-50 text-indigo-700 px-2.5 py-0.5 rounded text-xs font-medium">Pandas</span>
             </div>
 
             {/* EDIT: Your GitHub link for this project */}
-            <a href="https://github.com/netizen-experience" target="_blank" rel="noopener noreferrer"
+            <a href="https://github.com/cck769/Predicting-Viral-Artificial-Intelligence-Tweets" target="_blank" rel="noopener noreferrer"
                className="inline-block text-sm text-indigo-600 hover:text-indigo-800 font-medium transition-colors">
               View on GitHub →
             </a>
@@ -105,28 +104,75 @@ export default function Portfolio() {
           <div className="border border-slate-200 rounded-xl p-6 space-y-3">
 
             {/* EDIT: Project name */}
-            <h3 className="text-lg font-semibold text-slate-900">Student Grade Predictor</h3>
+            <h3 className="text-lg font-semibold text-slate-900">World Happiness Report 2015 Data Analysis</h3>
 
             {/* EDIT: One sentence describing the project and what you learned */}
             <p className="text-slate-600 text-sm leading-relaxed">
-              Machine learning model that predicts final exam grades from attendance and assignment scores.
-              Achieved 87% accuracy using a Random Forest classifier trained on anonymised university data.
+              Analysed data from 158 countries to examine the relationships between economic, social, and health-related factors and national happiness scores.
+              Used SAS Studio for data preparation, visualization, descriptive statistics, Pearson correlation, independent-samples t-tests, and 
+              multiple linear regression, including diagnostic assumption testing.
             </p>
 
             {/* EDIT: Technologies used in this project */}
             <div className="flex flex-wrap gap-2">
-              <span className="bg-indigo-50 text-indigo-700 px-2.5 py-0.5 rounded text-xs font-medium">Python</span>
-              <span className="bg-indigo-50 text-indigo-700 px-2.5 py-0.5 rounded text-xs font-medium">Scikit-learn</span>
-              <span className="bg-indigo-50 text-indigo-700 px-2.5 py-0.5 rounded text-xs font-medium">Jupyter</span>
+              <span className="bg-indigo-50 text-indigo-700 px-2.5 py-0.5 rounded text-xs font-medium">SAS</span>
             </div>
 
             {/* EDIT: Your GitHub link for this project */}
-            <a href="https://github.com/netizen-experience" target="_blank" rel="noopener noreferrer"
+            <a href="https://github.com/cck769/World-Happiness-Report-2015-Data-Analysis" target="_blank" rel="noopener noreferrer"
                className="inline-block text-sm text-indigo-600 hover:text-indigo-800 font-medium transition-colors">
               View on GitHub →
             </a>
           </div>
 
+                    {/* ── PROJECT 3 ── Copy this block to add more projects */}
+          <div className="border border-slate-200 rounded-xl p-6 space-y-3">
+
+            {/* EDIT: Project name */}
+            <h3 className="text-lg font-semibold text-slate-900">Global Food & Plastic Waste Analytics Project</h3>
+
+            {/* EDIT: One sentence describing the project and what you learned */}
+            <p className="text-slate-600 text-sm leading-relaxed">
+              Analysed global food waste and mismanaged plastic waste datasets from 2010–2019, performing data validation and cleaning to prepare the data for statistical analysis.
+              Utilized SAS for iterative data cleaning, Complete-Case Filtering protocols, correlation, and regression analysis.
+            </p>
+
+            {/* EDIT: Technologies used in this project */}
+            <div className="flex flex-wrap gap-2">
+              <span className="bg-indigo-50 text-indigo-700 px-2.5 py-0.5 rounded text-xs font-medium">SAS</span>
+            </div>
+
+            {/* EDIT: Your GitHub link for this project */}
+            <a href="https://github.com/cck769/Global-Food-Plastic-Waste-Analytics" target="_blank" rel="noopener noreferrer"
+               className="inline-block text-sm text-indigo-600 hover:text-indigo-800 font-medium transition-colors">
+              View on GitHub →
+            </a>
+          </div>
+          
+                    {/* ── PROJECT 4 ── Copy this block to add more projects */}
+          <div className="border border-slate-200 rounded-xl p-6 space-y-3">
+
+            {/* EDIT: Project name */}
+            <h3 className="text-lg font-semibold text-slate-900">Tech Innovation Hackathon Management System</h3>
+
+            {/* EDIT: One sentence describing the project and what you learned */}
+            <p className="text-slate-600 text-sm leading-relaxed">
+              Designed an 11-table normalized relational database schema to support event operations, cross-university participant and team management, and project evaluations.
+              Used SQL and entity-relationship modelling to define database relationships and maintain referential and data integrity.
+            </p>
+
+            {/* EDIT: Technologies used in this project */}
+            <div className="flex flex-wrap gap-2">
+              <span className="bg-indigo-50 text-indigo-700 px-2.5 py-0.5 rounded text-xs font-medium">SQL</span>
+            </div>
+
+            {/* EDIT: Your GitHub link for this project */}
+            <a href="https://github.com/cck769/Tech-Innovation-Hackathon-Management-System" target="_blank" rel="noopener noreferrer"
+               className="inline-block text-sm text-indigo-600 hover:text-indigo-800 font-medium transition-colors">
+              View on GitHub →
+            </a>
+          </div>
+          
         </div>
       </section>
 
